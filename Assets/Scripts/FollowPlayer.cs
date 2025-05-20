@@ -1,20 +1,18 @@
-using JetBrains.Annotations;
 using UnityEngine;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class FollowPlayer : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public GameObject player;
+
     void Start()
     {
         
     }
 
     // Update is called once per frame
-    public float speed = 20;
     void Update()
     {
-        
-        transform.Translate(Vector3.forward * Time.deltaTime * speed);
-
+        transform.position = player.transform.position;
     }
 }
