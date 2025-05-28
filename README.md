@@ -4,7 +4,7 @@ A high-speed, reflex-based car game set on a floating, ever-shifting road above 
 
 ## Controls
 
-  Arrow Keys / A-D which leads to turning vehicle left / right  
+  Left-Right Arrow Keys / A-D which leads to turning vehicle left / right  
 
 ##  Tech Stack
 
@@ -14,5 +14,9 @@ A high-speed, reflex-based car game set on a floating, ever-shifting road above 
 
 
 ## Video
-Uploading truckrunner.mp4…
+
+
+https://github.com/user-attachments/assets/45cc13b7-40bb-452c-9cd3-9c2a10d7569a
+
+
 
